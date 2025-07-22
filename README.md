@@ -4,7 +4,7 @@
 🎯 Building intuitive UIs with empathy, precision, and modern web tech  
 🌱 Always learning — currently sharpening my React Router & WordPress skills  
 💡 Passionate about wellness, design systems, and making the web more accessible  
-📬 Let’s connect: [LinkedIn]([https://www.linkedin.com/in/walidezzat](https://www.linkedin.com/in/walid-ezzat/)) • [Portfolio]([https://your-portfolio-link.com](https://walid-ezzat-portfolio.vercel.app/)) • [Email](mailto:walidelbourdiney25@gmail.com)
+📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/walid-ezzat/) • [Portfolio](https://walid-ezzat-portfolio.vercel.app/) • [Email](mailto:your@email.com)
 
 ---
 
