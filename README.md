@@ -2,7 +2,7 @@
 
 🚀 Front-End Developer | React & Tailwind | WordPress   
 🎯 Building intuitive UIs with empathy, precision, and modern web tech  
-🌱 Always learning — currently sharpening my TypeScript & WordPress skills  
+🌱 Always learning, currently sharpening my TypeScript & WordPress skills  
 💡 Passionate about wellness, design systems, and making the web more accessible  
 📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/walid-ezzat/) • [Portfolio](https://walid-ezzat-portfolio.vercel.app/) • [Email](mailto:your@email.com)
 
